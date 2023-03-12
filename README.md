@@ -1,0 +1,5 @@
+# .hammerspoon
+.hammerspoon
+
+
+~/.hammerspoon
