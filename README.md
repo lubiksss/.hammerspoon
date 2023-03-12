@@ -1,5 +1,2 @@
-# .hammerspoon
-.hammerspoon
-
 
 ~/.hammerspoon
